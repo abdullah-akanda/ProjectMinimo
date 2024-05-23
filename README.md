@@ -1,2 +1,2 @@
 # ProjectMinimo<br>
-Site linl: https://abdullah-akanda.github.io/ProjectMinimo/
+Site link: https://abdullah-akanda.github.io/ProjectMinimo/
